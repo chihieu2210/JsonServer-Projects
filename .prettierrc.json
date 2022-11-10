@@ -1,0 +1,23 @@
+{
+  "arrowParens": "avoid",
+  "bracketSameLine": false,
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "importOrder": [
+    "^react(.*)$",
+    "^@(.*)$",
+    "<THIRD_PARTY_MODULES>",
+    "^src/(.*)$",
+    "^[./].*(?<!\\.(c|le|sc)ss)$",
+    "\\.(c|le|sc)ss$"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "printWidth": 100,
+  "proseWrap": "never",
+  "semi": true,
+  "singleAttributePerLine": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none"
+}

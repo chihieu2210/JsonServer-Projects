@@ -1,0 +1,21 @@
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json format
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "fabiospampinato.vscode-optimize-images",
+    "coenraads.bracket-pair-colorizer",
+    "formulahendry.auto-rename-tag",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "msjsdiag.debugger-for-chrome",
+    "chakrounanas.turbo-console-log",
+    "vscode-icons-team.vscode-icons",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-mermaid",
+    "yzane.markdown-pdf",
+    "richie5um2.vscode-sort-json"
+  ]
+}

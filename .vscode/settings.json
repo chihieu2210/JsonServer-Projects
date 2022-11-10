@@ -1,0 +1,78 @@
+{
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.ignorePaths": [
+    "package.json",
+    "package-lock.json",
+    "next.config.js",
+    ".vscode",
+    ".env*",
+    ".eslintrc",
+    "README.md",
+    "constants",
+    ".prettierrc.json"
+  ],
+  "cSpell.words": ["Hola", "middlewares", "TINYMCE"],
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.wordWrap": "off",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.sortJSON": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.showExpandedAbbreviation": "always",
+  "files.associations": {
+    ".eslintrc": "json",
+    "jsconfig.json": "json"
+  },
+  "markdown-pdf.displayHeaderFooter": true,
+  "markdown-pdf.footerTemplate": "<div style=\"font-size: 9px; margin: 0 auto;\"> <span class='pageNumber'></span> / <span class='totalPages'></span></div>",
+  "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\"> Tạo file tài liệu Pdf từ Markdown</div> <div style=\"font-size: 9px; margin-left: auto; margin-right: 1cm; \"> <span class='date'></span></div>",
+  "markdown.extension.preview.autoShowPreviewToSide": true,
+  "markdown.extension.syntax.decorationFileSizeLimit": 500000,
+  "optimizeImages.app": "C:\\VSCODE\\IOptimizer\\IOptimizer.exe",
+  "optimizeImages.appOptions": ["[filepath]", "-l"],
+  "optimizeImages.imageRegex": ".*\\.(png|gif|jpe?g)$",
+  "optimizeImages.searchDepth": 10, // Maximum depth to look at when searching images
+  "optimizeImages.searchIgnoreFolders": [".git"],
+  "optimizeImages.searchStartingPath": ".", // Path relative to the root where to start searching images
+  "sortJSON.contextMenu": {
+    "sortJSON": true,
+    "sortJSONAlphaNum": false,
+    "sortJSONAlphaNumReverse": false,
+    "sortJSONKeyLength": false,
+    "sortJSONKeyLengthReverse": false,
+    "sortJSONReverse": false,
+    "sortJSONType": false,
+    "sortJSONTypeReverse": false,
+    "sortJSONValues": false,
+    "sortJSONValuesReverse": false
+  }
+}

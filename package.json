@@ -1,0 +1,17 @@
+{
+  "author": "Hiếu Lâm",
+  "name": "fake-json-server",
+  "version": "1.0.0",
+  "description": "Fake API server",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "json-server": "0.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.20"
+  }
+}
