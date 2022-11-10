@@ -1,0 +1,58 @@
+@baseUrl = http://localhost:3001/api
+
+# Current user ################################################
+
+# @name getCurrentUser
+GET {{baseUrl}}/user/current
+
+###
+
+# @name getGeographicList
+GET {{baseUrl}}/geographic/list/current
+
+###
+
+# @name getSystemText
+GET {{baseUrl}}/system-text/key?languageId=1
+
+###
+
+# @name getCanteen
+GET {{baseUrl}}/canteen/favorite?localId=1
+
+###
+
+# @name getNavigation
+GET {{baseUrl}}/navigation/get-menu/1/1
+
+###
+
+# @name getPrivacy
+GET {{baseUrl}}/content-page/get-privacy/1
+
+###
+
+# @name getCalendarEvent
+GET {{baseUrl}}/calendar-event/front-end?fromDate=2022-02-01%2000%3A00&localId=1&toDate=2022-02-28%2023%3A59&types=1&types=2&types=3
+
+###
+
+# @name getAnnouncement
+GET {{baseUrl}}/announcement/homepage?id=1&languageId=1
+
+###
+
+# @name getLocalNews
+GET {{baseUrl}}/news/local?id=1&isHighlight=true&languageId=1&page=1&take=4&type=global
+
+###
+
+# @name getNotication
+GET {{baseUrl}}/notication?isRead=false
+
+###
+
+# @name getUserOnboarding
+GET {{baseUrl}}/user-onboarding?languageId=1&userOnboardingPage=home&userOnboardingType=web
+
+###############################################################
