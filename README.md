@@ -21,11 +21,17 @@ npm install
 Run the local server
 
 ```
-npm run start
+npm run dev
 ```
 
 Open [http://localhost:3001/api](http://localhost:3001/api) with your browser to see the result.
 
+
+
 ## Pages in the project
 
-[http://localhost:3001/api](http://localhost:3001/api)
+[http://localhost:3001/api/portfolio/career](http://localhost:3001/api/portfolio/career)
+
+
+## Convert SQL to JSON
+[https://tableconvert.com/sql-to-json](https://tableconvert.com/sql-to-json)
