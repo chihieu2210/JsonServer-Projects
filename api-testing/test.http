@@ -2,7 +2,17 @@
 
 # Current user ################################################
 
-# @name getUserCareer
-GET {{baseUrl}}/career
+# @name getCareer
+GET {{baseUrl}}/portfolio/career
+
+###
+
+# @name getAngularEvents
+GET {{baseUrl}}/angular-sandbox/events
+
+###
+
+# @name getAngularRecipes
+GET {{baseUrl}}/angular-sandbox/recipes
 
 ###
