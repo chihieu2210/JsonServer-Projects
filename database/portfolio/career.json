@@ -3,6 +3,20 @@
     "active": true,
     "createdDate": "07/24/2015 08:37:48",
     "demoImage": "stafettloggen1.jpg@stafettloggen2.jpg@stafettloggen3.jpg",
+    "details": [
+      {
+        "content": "CX Stafettloggen is a tool that puts child development and parental involvement in the center with a focus on better interdisciplinary efforts.",
+        "description": "",
+        "languageId": 1,
+        "title": "CX Stafettloggen"
+      },
+      {
+        "content": "CX Stafettloggen is a tool that puts child development and parental involvement in the center with a focus on better interdisciplinary efforts.",
+        "description": "",
+        "languageId": 2,
+        "title": "CX Stafettloggen"
+      }
+    ],
     "endDate": "08/31/2015 00:00:00",
     "id": 1,
     "image": "stafettloggen.jpg",
@@ -14,6 +28,20 @@
     "active": true,
     "createdDate": "07/24/2015 08:39:52",
     "demoImage": "KeyCapacity.jpg",
+    "details": [
+      {
+        "content": "CX Key Capacity is a tool that supports schools in developing a learning practices in a more systematic, evidence-based and precise manner.",
+        "description": "",
+        "languageId": 1,
+        "title": "CX Key Capacity"
+      },
+      {
+        "content": "CX Key Capacity is a tool that supports schools in developing a learning practices in a more systematic, evidence-based and precise manner.",
+        "description": "",
+        "languageId": 2,
+        "title": "CX Key Capacity"
+      }
+    ],
     "endDate": "03/01/2015 00:00:00",
     "id": 2,
     "image": "KeyCapacity.jpg",
@@ -25,6 +53,20 @@
     "active": true,
     "createdDate": "07/24/2015 08:41:16",
     "demoImage": "kan635737210617741160.jpg",
+    "details": [
+      {
+        "content": "KAN can provide systematic development of skills, the key to quality in all organizations.",
+        "description": "",
+        "languageId": 1,
+        "title": "Kan"
+      },
+      {
+        "content": "KAN can provide systematic development of skills, the key to quality in all organizations.",
+        "description": "",
+        "languageId": 2,
+        "title": "Kan"
+      }
+    ],
     "endDate": "01/01/2015 00:00:00",
     "id": 3,
     "image": "Kan.jpg",
