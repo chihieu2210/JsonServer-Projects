@@ -31,7 +31,6 @@ Open [http://localhost:3001/api](http://localhost:3001/api) with your browser to
 ## Pages in the project
 
 [http://localhost:3001/api/portfolio/career](http://localhost:3001/api/portfolio/career)
-
 [http://localhost:3001/api/angular-sandbox/events](http://localhost:3001/api/angular-sandbox/events)
 [http://localhost:3001/api/angular-sandbox/recipes](http://localhost:3001/api/angular-sandbox/recipes)
 
