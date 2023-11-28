@@ -35,6 +35,7 @@ Install `REST Client` extension for VSCode and using `test.http` file for testin
 ## Pages in the project
 
 - [http://localhost:3001/api/portfolio/career](http://localhost:3001/api/portfolio/career)
+- [http://localhost:3001/api/portfolio/gallery](http://localhost:3001/api/portfolio/gallery)
 - [http://localhost:3001/api/angular-sandbox/events](http://localhost:3001/api/angular-sandbox/events)
 - [http://localhost:3001/api/angular-sandbox/recipes](http://localhost:3001/api/angular-sandbox/recipes)
 
