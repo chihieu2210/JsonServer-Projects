@@ -14,7 +14,7 @@
     ],
     "displayOrder": 1,
     "id": 1,
-    "image": "",
+    "image": null,
     "profileId": 1,
     "url": "/"
   },
@@ -33,8 +33,122 @@
     ],
     "displayOrder": 2,
     "id": 2,
-    "image": "",
+    "image": null,
     "profileId": 1,
     "url": "/Home/Journal"
+  },
+  {
+    "active": true,
+    "createDate": "07/28/2015 08:52:49",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Topics"
+      },
+      {
+        "languageId": 1,
+        "title": "Chủ đề"
+      }
+    ],
+    "displayOrder": 3,
+    "id": 3,
+    "image": null,
+    "profileId": 1,
+    "url": "/Home/Topic"
+  },
+  {
+    "active": true,
+    "createDate": "07/28/2015 09:00:21",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Skills"
+      },
+      {
+        "languageId": 1,
+        "title": "Kỹ năng"
+      }
+    ],
+    "displayOrder": 4,
+    "id": 4,
+    "image": null,
+    "profileId": 1,
+    "url": "/Home/Skills"
+  },
+  {
+    "active": true,
+    "createDate": "07/28/2015 08:51:46",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Home"
+      },
+      {
+        "languageId": 1,
+        "title": "Giới thiệu"
+      }
+    ],
+    "displayOrder": 1,
+    "id": 5,
+    "image": null,
+    "profileId": 2,
+    "url": "/Home/About"
+  },
+  {
+    "active": true,
+    "createDate": "07/28/2015 08:52:19",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Services"
+      },
+      {
+        "languageId": 1,
+        "title": "Bài viết"
+      }
+    ],
+    "displayOrder": 2,
+    "id": 6,
+    "image": null,
+    "profileId": 2,
+    "url": "/Home/Services"
+  },
+  {
+    "active": true,
+    "createDate": "07/28/2015 08:52:49",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Topics"
+      },
+      {
+        "languageId": 1,
+        "title": "Chủ đề"
+      }
+    ],
+    "displayOrder": 3,
+    "id": 7,
+    "image": null,
+    "profileId": 2,
+    "url": "/Home/Topic"
+  },
+  {
+    "active": false,
+    "createDate": "07/28/2015 09:00:21",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Skills"
+      },
+      {
+        "languageId": 1,
+        "title": "Kỹ năng"
+      }
+    ],
+    "displayOrder": 4,
+    "id": 8,
+    "image": null,
+    "profileId": 2,
+    "url": "/Home/Skills"
   }
 ]
