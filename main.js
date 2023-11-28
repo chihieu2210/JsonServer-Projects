@@ -66,6 +66,22 @@ router.render = async (req, res) => {
       }
       break;
 
+    case '/api/portfolio/menu':
+      {
+        const objectName = 'menu';
+
+        const jsonData = await fs.readFile(
+          path.join(DATABASE_FOLDER_PATH, `portfolio/${objectName}.json`),
+          'utf8'
+        );
+        const jsonObject = JSON.parse(jsonData);
+
+        res.status(200).jsonp({
+          [objectName]: jsonObject
+        });
+      }
+      break;
+
     case '/api/angular-sandbox/events':
       {
         const objectName = 'events';

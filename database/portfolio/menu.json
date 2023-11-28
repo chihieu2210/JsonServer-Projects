@@ -1,0 +1,40 @@
+[
+  {
+    "active": true,
+    "createDate": "07/28/2015 08:51:46",
+    "details": [
+      {
+        "languageId": 1,
+        "title": "Gi&#7899;i thi&#7879;u"
+      },
+      {
+        "languageId": 2,
+        "title": "About"
+      }
+    ],
+    "displayOrder": 1,
+    "id": 1,
+    "image": "",
+    "profileId": 1,
+    "url": "/"
+  },
+  {
+    "active": false,
+    "createDate": "07/28/2015 08:52:19",
+    "details": [
+      {
+        "languageId": 1,
+        "title": "B&agrave;i vi&#7871;t"
+      },
+      {
+        "languageId": 2,
+        "title": "Journal"
+      }
+    ],
+    "displayOrder": 2,
+    "id": 2,
+    "image": "",
+    "profileId": 1,
+    "url": "/Home/Journal"
+  }
+]

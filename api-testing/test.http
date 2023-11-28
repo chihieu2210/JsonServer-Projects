@@ -4,20 +4,20 @@
 
 # @name getCareer
 GET {{baseUrl}}/portfolio/career
-
 ###
 
 # @name getGallery
 GET {{baseUrl}}/portfolio/gallery
+###
 
+# @name getMenu
+GET {{baseUrl}}/portfolio/menu
 ###
 
 # @name getAngularEvents
 GET {{baseUrl}}/angular-sandbox/events
-
 ###
 
 # @name getAngularRecipes
 GET {{baseUrl}}/angular-sandbox/recipes
-
 ###
