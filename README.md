@@ -28,7 +28,7 @@ Open [http://localhost:3001/api](http://localhost:3001/api) with your browser to
 
 
 ## API Testing With REST Client
-Install `REST Client` extension for VSCode and using test.http file for testing.
+Install `REST Client` extension for VSCode and using `test.http` file for testing.
 
 
 
@@ -40,4 +40,4 @@ Install `REST Client` extension for VSCode and using test.http file for testing.
 
 
 ## Convert SQL to JSON
-[https://tableconvert.com/sql-to-json](https://tableconvert.com/sql-to-json)
+- [https://tableconvert.com/sql-to-json](https://tableconvert.com/sql-to-json)
