@@ -27,12 +27,16 @@ npm run dev
 Open [http://localhost:3001/api](http://localhost:3001/api) with your browser to see the result.
 
 
+## API Testing With REST Client
+Install `REST Client` extension for VSCode and using test.http file for testing.
+
+
 
 ## Pages in the project
 
-[http://localhost:3001/api/portfolio/career](http://localhost:3001/api/portfolio/career)
-[http://localhost:3001/api/angular-sandbox/events](http://localhost:3001/api/angular-sandbox/events)
-[http://localhost:3001/api/angular-sandbox/recipes](http://localhost:3001/api/angular-sandbox/recipes)
+- [http://localhost:3001/api/portfolio/career](http://localhost:3001/api/portfolio/career)
+- [http://localhost:3001/api/angular-sandbox/events](http://localhost:3001/api/angular-sandbox/events)
+- [http://localhost:3001/api/angular-sandbox/recipes](http://localhost:3001/api/angular-sandbox/recipes)
 
 
 ## Convert SQL to JSON
