@@ -14,6 +14,14 @@ GET {{baseUrl}}/portfolio/gallery
 GET {{baseUrl}}/portfolio/menu
 ###
 
+# @name getLanguages
+GET {{baseUrl}}/portfolio/language
+###
+
+# @name getTopics
+GET {{baseUrl}}/portfolio/topic
+###
+
 # @name getAngularEvents
 GET {{baseUrl}}/angular-sandbox/events
 ###

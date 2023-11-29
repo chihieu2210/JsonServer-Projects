@@ -30,55 +30,49 @@ server.use(async (req, _res, next) => {
   next();
 });
 
+async function getObjectData(projectName, objectName) {
+  const jsonData = await fs.readFile(
+    path.join(DATABASE_FOLDER_PATH, `${projectName}/${objectName}.json`),
+    'utf8'
+  );
+  const jsonObject = JSON.parse(jsonData);
+
+  return {
+    [objectName]: jsonObject
+  };
+}
+
 router.render = async (req, res) => {
   const urlObject = url.parse(req.originalUrl, true);
 
   switch (urlObject.pathname) {
     case '/api/portfolio/career':
       {
-        const objectName = 'career';
-
-        const jsonData = await fs.readFile(
-          path.join(DATABASE_FOLDER_PATH, `portfolio/${objectName}.json`),
-          'utf8'
-        );
-        const jsonObject = JSON.parse(jsonData);
-
-        res.status(200).jsonp({
-          [objectName]: jsonObject
-        });
+        res.status(200).jsonp(await getObjectData('portfolio', 'career'));
       }
       break;
 
     case '/api/portfolio/gallery':
       {
-        const objectName = 'gallery';
-
-        const jsonData = await fs.readFile(
-          path.join(DATABASE_FOLDER_PATH, `portfolio/${objectName}.json`),
-          'utf8'
-        );
-        const jsonObject = JSON.parse(jsonData);
-
-        res.status(200).jsonp({
-          [objectName]: jsonObject
-        });
+        res.status(200).jsonp(await getObjectData('portfolio', 'gallery'));
       }
       break;
 
     case '/api/portfolio/menu':
       {
-        const objectName = 'menu';
+        res.status(200).jsonp(await getObjectData('portfolio', 'menu'));
+      }
+      break;
 
-        const jsonData = await fs.readFile(
-          path.join(DATABASE_FOLDER_PATH, `portfolio/${objectName}.json`),
-          'utf8'
-        );
-        const jsonObject = JSON.parse(jsonData);
+    case '/api/portfolio/language':
+      {
+        res.status(200).jsonp(await getObjectData('portfolio', 'language'));
+      }
+      break;
 
-        res.status(200).jsonp({
-          [objectName]: jsonObject
-        });
+    case '/api/portfolio/topic':
+      {
+        res.status(200).jsonp(await getObjectData('portfolio', 'topic'));
       }
       break;
 

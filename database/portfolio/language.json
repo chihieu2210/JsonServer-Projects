@@ -1,0 +1,18 @@
+[
+  {
+    "active": true,
+    "code": "vi-VN",
+    "displayOrder": 1,
+    "id": 1,
+    "name": "Vietnamese",
+    "userViewable": true
+  },
+  {
+    "active": true,
+    "code": "en-US",
+    "displayOrder": 1,
+    "id": 2,
+    "name": "English",
+    "userViewable": true
+  }
+]
