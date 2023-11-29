@@ -5,7 +5,7 @@
     "details": [
       {
         "languageId": 1,
-        "title": "Gi&#7899;i thi&#7879;u"
+        "title": "Giới thiệu"
       },
       {
         "languageId": 2,
@@ -24,7 +24,7 @@
     "details": [
       {
         "languageId": 1,
-        "title": "B&agrave;i vi&#7871;t"
+        "title": "Bài viết"
       },
       {
         "languageId": 2,
@@ -85,7 +85,7 @@
       },
       {
         "languageId": 1,
-        "title": "Giới thiệu"
+        "title": "Trang chủ"
       }
     ],
     "displayOrder": 1,
@@ -104,7 +104,7 @@
       },
       {
         "languageId": 1,
-        "title": "Bài viết"
+        "title": "Dịch vụ"
       }
     ],
     "displayOrder": 2,

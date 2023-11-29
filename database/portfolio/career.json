@@ -6,13 +6,13 @@
     "details": [
       {
         "content": "CX Stafettloggen is a tool that puts child development and parental involvement in the center with a focus on better interdisciplinary efforts.",
-        "description": "",
+        "description": null,
         "languageId": 1,
         "title": "CX Stafettloggen"
       },
       {
         "content": "CX Stafettloggen is a tool that puts child development and parental involvement in the center with a focus on better interdisciplinary efforts.",
-        "description": "",
+        "description": null,
         "languageId": 2,
         "title": "CX Stafettloggen"
       }
@@ -31,13 +31,13 @@
     "details": [
       {
         "content": "CX Key Capacity is a tool that supports schools in developing a learning practices in a more systematic, evidence-based and precise manner.",
-        "description": "",
+        "description": null,
         "languageId": 1,
         "title": "CX Key Capacity"
       },
       {
         "content": "CX Key Capacity is a tool that supports schools in developing a learning practices in a more systematic, evidence-based and precise manner.",
-        "description": "",
+        "description": null,
         "languageId": 2,
         "title": "CX Key Capacity"
       }
@@ -56,13 +56,13 @@
     "details": [
       {
         "content": "KAN can provide systematic development of skills, the key to quality in all organizations.",
-        "description": "",
+        "description": null,
         "languageId": 1,
         "title": "Kan"
       },
       {
         "content": "KAN can provide systematic development of skills, the key to quality in all organizations.",
-        "description": "",
+        "description": null,
         "languageId": 2,
         "title": "Kan"
       }
@@ -78,6 +78,20 @@
     "active": true,
     "createdDate": "07/24/2015 08:43:08",
     "demoImage": "vip241.jpg@vip242.jpg@vip243.jpg",
+    "details": [
+      {
+        "content": "vip24 is a profile and conversation tools for raising awareness of their own strengths and opportunities with a view to promoting achievement and proactive behavior.",
+        "description": null,
+        "languageId": 1,
+        "title": "vip24"
+      },
+      {
+        "content": "vip24 is a profile and conversation tools for raising awareness of their own strengths and opportunities with a view to promoting achievement and proactive behavior.",
+        "description": null,
+        "languageId": 2,
+        "title": "vip24"
+      }
+    ],
     "endDate": "06/01/2014 00:00:00",
     "id": 4,
     "image": "vip24.jpg",
@@ -89,6 +103,20 @@
     "active": true,
     "createdDate": "07/24/2015 08:44:49",
     "demoImage": "PULS.jpg",
+    "details": [
+      {
+        "content": "Responsible for designing, developing and managing the website.<br /><a href=\"http://www.daiduyen.com\" target=\"_blank\">http://www.daiduyen.com</a><br /><a href=\"http://www.thegioimythuat.vn\" target=\"_blank\">http://www.thegioimythuat.vn</a><br /><a href=\"http://hoanglaman.com.vn\" target=\"_blank\">http://hoanglaman.com.vn</a><br /><a href=\"http://www.shophoamaianh.com\" target=\"_blank\">http://www.shophoamaianh.com</a>",
+        "description": null,
+        "languageId": 1,
+        "title": "Dai Duyen company"
+      },
+      {
+        "content": "PULS is a tool to better assess its quality more systematic and purposeful.",
+        "description": null,
+        "languageId": 2,
+        "title": "PULS"
+      }
+    ],
     "endDate": "07/01/2013 00:00:00",
     "id": 5,
     "image": "PULS.jpg",
@@ -100,6 +128,20 @@
     "active": true,
     "createdDate": "07/24/2015 08:46:11",
     "demoImage": "vokal1635733243370399106.jpg@vokal2.jpg@vokal3.jpg",
+    "details": [
+      {
+        "content": "VOKAL is an online tool that compiles assessment and mapping in school, so that teachers can provide customized instruction.",
+        "description": null,
+        "languageId": 1,
+        "title": "VOKAL"
+      },
+      {
+        "content": "VOKAL is an online tool that compiles assessment and mapping in school, so that teachers can provide customized instruction.",
+        "description": null,
+        "languageId": 2,
+        "title": "VOKAL"
+      }
+    ],
     "endDate": "11/01/2012 00:00:00",
     "id": 6,
     "image": "vokal.jpg",
