@@ -24,7 +24,7 @@
     "details": [
       {
         "languageId": 1,
-        "title": "Bài viết"
+        "title": "Nhật ký"
       },
       {
         "languageId": 2,
@@ -81,11 +81,11 @@
     "details": [
       {
         "languageId": 2,
-        "title": "Home"
+        "title": "About"
       },
       {
         "languageId": 1,
-        "title": "Trang chủ"
+        "title": "Giới thiệu"
       }
     ],
     "displayOrder": 1,

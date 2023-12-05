@@ -153,6 +153,20 @@
     "active": true,
     "createdDate": "07/24/2015 08:47:28",
     "demoImage": "Sage50.jpg",
+    "details": [
+      {
+        "content": "Sage 50 Accounting (formerly Simply Accounting) is easy-to-use accounting and business management software that provides you with the tools you need to manage your bookkeeping, payroll and business needs and the freedom to do just that with ease. Anytime. Anywhere.",
+        "description": null,
+        "languageId": 1,
+        "title": "Sage 50 Accounting"
+      },
+      {
+        "content": "Sage 50 Accounting (formerly Simply Accounting) is easy-to-use accounting and business management software that provides you with the tools you need to manage your bookkeeping, payroll and business needs and the freedom to do just that with ease. Anytime. Anywhere.",
+        "description": null,
+        "languageId": 2,
+        "title": "Sage 50 Accounting"
+      }
+    ],
     "endDate": "01/01/2012 00:00:00",
     "id": 7,
     "image": "sage50.jpg",
@@ -164,6 +178,20 @@
     "active": true,
     "createdDate": "07/24/2015 08:55:11",
     "demoImage": "8lions.jpg",
+    "details": [
+      {
+        "content": "Join&nbsp;Eight Lions Corporation,&nbsp;responsible for designing, developing , managing some websites and worked as a network administrator for the company.<br /><a href=\"http://www.8lions.com\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.8lions.com</a><br /><a href=\"http://www.celeb.com.vn\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.celeb.com.vn</a><br /><a href=\"http://www.homestudioplus.com/\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.homestudioplus.com/</a><br /><a href=\"http://www.humanfactorinternational.com\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.humanfactorinternational.com</a>",
+        "description": null,
+        "languageId": 1,
+        "title": "Công ty Eight Lions Corporation"
+      },
+      {
+        "content": "Join&nbsp;Eight Lions Corporation,&nbsp;responsible for designing, developing , managing some websites and worked as a network administrator for the company.<br /><a href=\"http://www.8lions.com\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.8lions.com</a><br /><a href=\"http://www.celeb.com.vn\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.celeb.com.vn</a><br /><a href=\"http://www.homestudioplus.com/\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.homestudioplus.com/</a><br /><a href=\"http://www.humanfactorinternational.com\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.humanfactorinternational.com</a>",
+        "description": null,
+        "languageId": 2,
+        "title": "Eight Lions Corporation Company"
+      }
+    ],
     "endDate": "09/01/2011 00:00:00",
     "id": 8,
     "image": "EightLionsCorporation.jpg",
