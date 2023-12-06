@@ -203,6 +203,20 @@
     "active": true,
     "createdDate": "07/24/2015 09:01:43",
     "demoImage": "vnvn1635737210137645007.jpg@vnvn2635737210138825294.jpg",
+    "details": [
+      {
+        "content": "Join&nbsp;VNVN System Inc, Responsible for developing W3C compliant websites from a layered PSD utilising XHTML, XSLT, CSS and jQuery / Javascript such as hospital management website, MaxGrowth- transport companie, developing VNVN management tools.",
+        "description": null,
+        "languageId": 2,
+        "title": "VNVN System Inc Company"
+      },
+      {
+        "content": "Join&nbsp;VNVN System Inc, Responsible for developing W3C compliant websites from a layered PSD utilising XHTML, XSLT, CSS and jQuery / Javascript such as hospital management website, MaxGrowth- transport companie, developing VNVN management tools.",
+        "description": null,
+        "languageId": 1,
+        "title": "Công ty VNVN System Inc"
+      }
+    ],
     "endDate": "07/01/2009 00:00:00",
     "id": 9,
     "image": "VNVNSystem.jpg",
@@ -214,6 +228,20 @@
     "active": true,
     "createdDate": "07/24/2015 09:05:53",
     "demoImage": "daiduyen1635737209864220548.jpg@daiduyen2635737209865407797.jpg@daiduyen3635737209866398455.jpg",
+    "details": [
+      {
+        "content": "Responsible for designing, developing and managing the website.<br /><a href=\"http://www.daiduyen.com\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.daiduyen.com</a><br /><a href=\"http://www.thegioimythuat.vn\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.thegioimythuat.vn</a><br /><a href=\"http://hoanglaman.com.vn\" target=\"_blank\" rel=\"noopener noreferrer\">http://hoanglaman.com.vn</a><br /><a href=\"http://www.shophoamaianh.com\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.shophoamaianh.com</a>",
+        "description": null,
+        "languageId": 2,
+        "title": "Đại Duyên Company"
+      },
+      {
+        "content": "Chịu trách nhiệm thiết kế, xây dựng phát triển và quản lý các website.<br /><a href=\"http://www.daiduyen.com\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.daiduyen.com</a><br /><a href=\"http://www.thegioimythuat.vn\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.thegioimythuat.vn</a><br /><a href=\"http://hoanglaman.com.vn\" target=\"_blank\" rel=\"noopener noreferrer\">http://hoanglaman.com.vn</a><br /><a href=\"http://www.shophoamaianh.com\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.shophoamaianh.com</a>",
+        "description": null,
+        "languageId": 1,
+        "title": "Công ty Đại Duyên"
+      }
+    ],
     "endDate": "05/01/2008 00:00:00",
     "id": 10,
     "image": "DaiDuyen.jpg",
@@ -225,6 +253,20 @@
     "active": true,
     "createdDate": "01/16/2016 13:20:54",
     "demoImage": "vokal21.png@vokal22.png@vokal23.png@vokal24.png@VOKAL5.jpg@VOKAL6.jpg@VOKAL7.jpg",
+    "details": [
+      {
+        "content": "ENGAGE is an online tool that compiles assessment and mapping in school, so that teachers can provide customized instruction.",
+        "description": null,
+        "languageId": 2,
+        "title": "Engage"
+      },
+      {
+        "content": "ENGAGE is an online tool that compiles assessment and mapping in school, so that teachers can provide customized instruction.",
+        "description": null,
+        "languageId": 1,
+        "title": "Engage"
+      }
+    ],
     "endDate": "02/01/2017 00:00:00",
     "id": 11,
     "image": "Engage.png",
@@ -236,6 +278,20 @@
     "active": true,
     "createdDate": "01/25/2016 09:06:19",
     "demoImage": "stb1.png@stb2.png@stb3.png@stb4.png@stb5.png",
+    "details": [
+      {
+        "content": "Manage the status analysis for kindergarten",
+        "description": "Manage the status analysis for kindergarten",
+        "languageId": 2,
+        "title": "STB"
+      },
+      {
+        "content": "Manage the status analysis for kindergarten",
+        "description": "Manage the status analysis for kindergarten",
+        "languageId": 1,
+        "title": "STB"
+      }
+    ],
     "endDate": "10/01/2015 00:00:00",
     "id": 12,
     "image": "stblogo.png",
@@ -247,6 +303,20 @@
     "active": true,
     "createdDate": "06/11/2017 16:37:22",
     "demoImage": "FinanceCareplus1.jpg@FinanceCareplus2.jpg@StockManagementTool1.jpg@StockManagementTool2.jpg@StockManagementTool3.jpg",
+    "details": [
+      {
+        "content": "Tool helps manage stocks, updates prices automatically, calculated giving suggestions to the user.",
+        "description": "Tool helps manage stocks, updates prices automatically, calculated giving suggestions to the user.",
+        "languageId": 2,
+        "title": "Stock Management Tool"
+      },
+      {
+        "content": "Tool helps manage stocks, updates prices automatically, calculated giving suggestions to the user.",
+        "description": "Tool helps manage stocks, updates prices automatically, calculated giving suggestions to the user.",
+        "languageId": 1,
+        "title": "Stock Management Tool"
+      }
+    ],
     "endDate": "12/31/2017 00:00:00",
     "id": 13,
     "image": "FinanceCareplusLogo.png",
@@ -258,6 +328,20 @@
     "active": true,
     "createdDate": "06/13/2017 07:45:33",
     "demoImage": "BoostRank1.jpg@BoostRank2.jpg@BoostRank3.jpg",
+    "details": [
+      {
+        "content": "The service has proven to be one of the most popular and top-rated Dota 2 boosting. Our professional players will log into your account securely and play with it until you reach your desired.",
+        "description": "The service has proven to be one of the most popular and top-rated Dota 2 boosting. Our professional players will log into your account securely and play with it until you reach your desired.",
+        "languageId": 2,
+        "title": "Dota BoostRank"
+      },
+      {
+        "content": "The service has proven to be one of the most popular and top-rated Dota 2 boosting. Our professional players will log into your account securely and play with it until you reach your desired.",
+        "description": "The service has proven to be one of the most popular and top-rated Dota 2 boosting. Our professional players will log into your account securely and play with it until you reach your desired.",
+        "languageId": 1,
+        "title": "Dota BoostRank"
+      }
+    ],
     "endDate": "11/15/2015 00:00:00",
     "id": 14,
     "image": "BoostRank.png",
@@ -269,6 +353,20 @@
     "active": true,
     "createdDate": "06/13/2017 22:42:43",
     "demoImage": "AdminControlPanel1.jpg@AdminControlPanel2.jpg@AdminControlPanel3.jpg",
+    "details": [
+      {
+        "content": "The Admin Control Panel is the interface where you can change your Brand’s appearance, manage users, customize Website Builder package names, and perform other Brand maintenance. It is automatically updated with the information entered in the main sites.",
+        "description": null,
+        "languageId": 2,
+        "title": "Admin Control Panel"
+      },
+      {
+        "content": "The Admin Control Panel is the interface where you can change your Brand’s appearance, manage users, customize Website Builder package names, and perform other Brand maintenance. It is automatically updated with the information entered in the main sites.",
+        "description": null,
+        "languageId": 1,
+        "title": "Admin Control Panel"
+      }
+    ],
     "endDate": "01/01/2014 00:00:00",
     "id": 15,
     "image": "AdminPanel.png",
@@ -280,6 +378,20 @@
     "active": true,
     "createdDate": "06/13/2017 23:09:20",
     "demoImage": "TournamentBracket1.jpg@TournamentBracket2.jpg@TournamentBracket3.jpg",
+    "details": [
+      {
+        "content": "This is the perfect organizational web tool for club, league and association management. If you want to save time on communication, administration, scheduling and registration, you’ve come to the right place.",
+        "description": null,
+        "languageId": 2,
+        "title": "Tournament Bracket"
+      },
+      {
+        "content": "This is the perfect organizational web tool for club, league and association management. If you want to save time on communication, administration, scheduling and registration, you’ve come to the right place.",
+        "description": null,
+        "languageId": 1,
+        "title": "Tournament Bracket"
+      }
+    ],
     "endDate": "08/17/2016 00:00:00",
     "id": 16,
     "image": "Badminton.png",
@@ -291,6 +403,20 @@
     "active": true,
     "createdDate": "06/13/2017 23:20:04",
     "demoImage": "Phamarcy1.png@Phamarcy2.png@Phamarcy3.png@Phamarcy4.png",
+    "details": [
+      {
+        "content": "A website for the State of Vietnamese, Board of Pharmacy.",
+        "description": "A website for the State of Vietnamese, Board of Pharmacy.",
+        "languageId": 2,
+        "title": "Dược Đức Pharmacy"
+      },
+      {
+        "content": "A website for the State of Vietnamese, Board of Pharmacy.",
+        "description": "A website for the State of Vietnamese, Board of Pharmacy.",
+        "languageId": 1,
+        "title": "Dược Đức Pharmacy"
+      }
+    ],
     "endDate": "02/28/2017 00:00:00",
     "id": 17,
     "image": "Phamarcy.png",
@@ -302,6 +428,20 @@
     "active": true,
     "createdDate": "06/14/2017 21:07:40",
     "demoImage": "walkietalkievietnam1.jpg@walkietalkievietnam2.jpg@walkietalkievietnam3.jpg",
+    "details": [
+      {
+        "content": "The foreign language training center by English language training methods are like children learning the mother tongue.",
+        "description": null,
+        "languageId": 2,
+        "title": "Walkie-Talkie Viet Nam"
+      },
+      {
+        "content": "The foreign language training center by English language training methods are like children learning the mother tongue.",
+        "description": null,
+        "languageId": 1,
+        "title": "Walkie-Talkie Việt Nam"
+      }
+    ],
     "endDate": "03/05/2015 00:00:00",
     "id": 18,
     "image": "walkietalkievietnam.png",
@@ -313,6 +453,20 @@
     "active": true,
     "createdDate": "06/14/2017 21:15:57",
     "demoImage": "Groupleader2014.jpg@Groupleader20141.jpg",
+    "details": [
+      {
+        "content": "Leading multiple front-end development persons to design and develop products in accordance with market demands.",
+        "description": null,
+        "languageId": 2,
+        "title": "FrontEnd Group Leader"
+      },
+      {
+        "content": "Leading multiple front-end development persons to design and develop products in accordance with market demands.",
+        "description": null,
+        "languageId": 1,
+        "title": "FrontEnd Group Leader"
+      }
+    ],
     "endDate": "06/09/2017 00:00:00",
     "id": 19,
     "image": "GroupLeader.png",
@@ -324,6 +478,20 @@
     "active": true,
     "createdDate": "06/14/2017 21:26:15",
     "demoImage": "Groupleader2014636330723500960965.jpg@Leader.jpg",
+    "details": [
+      {
+        "content": "Taking hands-on technical leadership for a small team of high-performing front-end developers, enhancing existing features of the company flagship applications as well as contributing to the solution design of new ones.",
+        "description": null,
+        "languageId": 2,
+        "title": "FrontEnd Technical Lead"
+      },
+      {
+        "content": "Taking hands-on technical leadership for a small team of high-performing front-end developers, enhancing existing features of the company flagship applications as well as contributing to the solution design of new ones.",
+        "description": null,
+        "languageId": 1,
+        "title": "FrontEnd Technical Lead"
+      }
+    ],
     "endDate": "",
     "id": 20,
     "image": "Techlead.png",
@@ -335,6 +503,20 @@
     "active": true,
     "createdDate": "06/14/2017 21:42:49",
     "demoImage": "JapanEngineering1.jpg@JapanEngineering2.jpg@JapanEngineering3.jpg",
+    "details": [
+      {
+        "content": "A website used to introduce the company and provide services on infrastructure construction.",
+        "description": null,
+        "languageId": 2,
+        "title": "Japan Engineering"
+      },
+      {
+        "content": "A website used to introduce the company and provide services on infrastructure construction.",
+        "description": null,
+        "languageId": 1,
+        "title": "Japan Engineering"
+      }
+    ],
     "endDate": "12/24/2015 00:00:00",
     "id": 21,
     "image": "JapanEngineering.jpg",
@@ -346,6 +528,20 @@
     "active": true,
     "createdDate": "06/16/2017 14:59:09",
     "demoImage": "ArtWorld1.jpg@ArtWorld2.jpg@ArtWorld4.jpg@ArtWorld3.jpg",
+    "details": [
+      {
+        "content": "Buy, sell, research fine art, decorative art, and design online.",
+        "description": "Buy, sell, research fine art, decorative art, and design online.",
+        "languageId": 2,
+        "title": "Art World"
+      },
+      {
+        "content": "Website chuyên về mỹ thuật, nghệ thuật trang trí và thiết kế trực tuyến.",
+        "description": null,
+        "languageId": 1,
+        "title": "Art World"
+      }
+    ],
     "endDate": "07/25/2007 00:00:00",
     "id": 22,
     "image": "ArtWorld.jpg",
@@ -357,6 +553,20 @@
     "active": true,
     "createdDate": "06/21/2017 22:17:04",
     "demoImage": "Subaru1.jpg@Subaru2.jpg",
+    "details": [
+      {
+        "content": "Visit Subaru of Vietnam for reviews, pricing and photos of Subaru Cars, Sedans, SUVs. Find a Subaru Retailer Information.",
+        "description": null,
+        "languageId": 2,
+        "title": "Subaru Vietnam"
+      },
+      {
+        "content": "Visit Subaru of Vietnam for reviews, pricing and photos of Subaru Cars, Sedans, SUVs. Find a Subaru Retailer Information.",
+        "description": null,
+        "languageId": 1,
+        "title": "Subaru Việt Nam"
+      }
+    ],
     "endDate": "09/08/2015 00:00:00",
     "id": 23,
     "image": "Subaru.png",
@@ -368,6 +578,20 @@
     "active": true,
     "createdDate": "06/21/2017 22:24:17",
     "demoImage": "VietnameseRestaurant1.jpg@VietnameseRestaurant2.jpg",
+    "details": [
+      {
+        "content": "Your local neighborhood Vietnamese restaurant.",
+        "description": null,
+        "languageId": 2,
+        "title": "Vietnamese Restaurant"
+      },
+      {
+        "content": "Your local neighborhood Vietnamese restaurant.",
+        "description": null,
+        "languageId": 1,
+        "title": "Vietnamese Restaurant"
+      }
+    ],
     "endDate": "04/10/2011 00:00:00",
     "id": 24,
     "image": "Restaurant.png",
@@ -379,6 +603,20 @@
     "active": true,
     "createdDate": "06/23/2017 18:43:44",
     "demoImage": "20160301LayoutGenerator1.png@20160301LayoutGenerator2.png@aaaaaaa.jpg",
+    "details": [
+      {
+        "content": "Layout Generator is a drag-and-drop interface builder for Conexus company that will be used to kick-off for our front-end projects.",
+        "description": null,
+        "languageId": 2,
+        "title": "Layout Generator"
+      },
+      {
+        "content": "Layout Generator is a drag-and-drop interface builder for Conexus company that will be used to kick-off for our front-end projects.",
+        "description": null,
+        "languageId": 1,
+        "title": "Layout Generator"
+      }
+    ],
     "endDate": "05/15/2016 00:00:00",
     "id": 25,
     "image": "layout.png",
@@ -390,6 +628,20 @@
     "active": true,
     "createdDate": "12/14/2017 12:32:46",
     "demoImage": "conexusonioneng3.jpg",
+    "details": [
+      {
+        "content": "Join Conexus Vietnam, one of Norway's largest companies in system development for HR (Human Resources), and is the total supplier of quality systems, competence management and user surveys to both the private and public sectors. A total of 55 employees in Drammen and 40 employees in Vietnam created in 2016 a turnover of approx. 150 million NOK.",
+        "description": null,
+        "languageId": 2,
+        "title": "Conexus Vietnam Company"
+      },
+      {
+        "content": "Join Conexus Vietnam, one of Norway's largest companies in system development for HR (Human Resources), and is the total supplier of quality systems, competence management and user surveys to both the private and public sectors. A total of 55 employees in Drammen and 40 employees in Vietnam created in 2016 a turnover of approx. 150 million NOK.",
+        "description": null,
+        "languageId": 1,
+        "title": "Công ty Conexus Việt Nam"
+      }
+    ],
     "endDate": "",
     "id": 26,
     "image": "CX.jpg",
@@ -401,6 +653,20 @@
     "active": true,
     "createdDate": "08/07/2018 14:44:37",
     "demoImage": "OrientCompany636692497980401493.jpg@OrientCompany3.jpg@OrientCompany2.jpg",
+    "details": [
+      {
+        "content": "Join Orient Software, is the leading software development company in Vietnam providing state of the art software outsourcing services.",
+        "description": null,
+        "languageId": 2,
+        "title": "Orient Software Company"
+      },
+      {
+        "content": "Join Orient Software, is the leading software development company in Vietnam providing state of the art software outsourcing services.",
+        "description": null,
+        "languageId": 1,
+        "title": "Công ty Orient Software"
+      }
+    ],
     "endDate": "12/31/2017 00:00:00",
     "id": 27,
     "image": "orientlogo636692497919408004.jpg",
@@ -412,6 +678,20 @@
     "active": true,
     "createdDate": "08/11/2018 14:18:42",
     "demoImage": "CoursePad1.jpg@CoursePad3.jpg@CoursePad4.jpg@Learn.jpg@Landingpage.jpg@Login.jpg@Discover.jpg@DailyFeed.jpg@Lesson.jpg",
+    "details": [
+      {
+        "content": "LEARN is a one-stop digital learning platform that lets you learn wherever you go. It also gives you all that you need to upskill and reskill in a digital workplace. Discover a world of learning resources with CSC’s proprietary content and curated learning pathways from renowned third-party content providers. Sharpen your skills with personalized content according to Public Service Competency Frameworks and your learning needs.",
+        "description": "Digital Learning Platform",
+        "languageId": 2,
+        "title": "LEARN - Digital Learning Platform"
+      },
+      {
+        "content": "LEARN is a one-stop digital learning platform that lets you learn wherever you go. It also gives you all that you need to upskill and reskill in a digital workplace. Discover a world of learning resources with CSC’s proprietary content and curated learning pathways from renowned third-party content providers. Sharpen your skills with personalized content according to Public Service Competency Frameworks and your learning needs.",
+        "description": "Digital Learning Platform",
+        "languageId": 1,
+        "title": "LEARN"
+      }
+    ],
     "endDate": "03/31/2020 00:00:00",
     "id": 28,
     "image": "darklogo.png",
@@ -423,6 +703,20 @@
     "active": true,
     "createdDate": "03/18/2020 14:05:59",
     "demoImage": "MoE1.jpg",
+    "details": [
+      {
+        "content": "MoE is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, and critically and creatively apply it to real life situations. This process, which enhances students’ knowledge and enables them to acquire skills like collaboration, communication and independent learning, prepares them for lifelong learning and the challenges ahead.",
+        "description": "Project of Ministry of Education",
+        "languageId": 2,
+        "title": "MoE"
+      },
+      {
+        "content": "MoE is a learning experience which aims to provide students with the opportunity to synthesise knowledge from various areas of learning, and critically and creatively apply it to real life situations. This process, which enhances students’ knowledge and enables them to acquire skills like collaboration, communication and independent learning, prepares them for lifelong learning and the challenges ahead.",
+        "description": "Project of Ministry of Education",
+        "languageId": 1,
+        "title": "Project of Ministry of Education"
+      }
+    ],
     "endDate": "",
     "id": 29,
     "image": "opal.png",
@@ -434,6 +728,20 @@
     "active": true,
     "createdDate": "06/14/2020 17:05:20",
     "demoImage": "TimeTravel.jpg",
+    "details": [
+      {
+        "content": "Time travel - Let's look back on the memorable moments",
+        "description": null,
+        "languageId": 2,
+        "title": "Time Travel"
+      },
+      {
+        "content": "Time travel - Cùng nhìn lại những khoảnh khắc đáng nhớ",
+        "description": null,
+        "languageId": 1,
+        "title": "Time Travel"
+      }
+    ],
     "endDate": "04/10/2020 00:00:00",
     "id": 30,
     "image": "timetravellogo.png",
