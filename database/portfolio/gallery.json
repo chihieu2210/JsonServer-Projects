@@ -5,11 +5,11 @@
     "createdDate": "07/23/2015 15:28:17",
     "details": [
       {
-        "languageId": 1,
+        "languageId": 2,
         "title": "Team building at Phan Thiet"
       },
       {
-        "languageId": 2,
+        "languageId": 1,
         "title": "Team building &#7903; Phan Thi&#7871;t"
       }
     ],
@@ -27,11 +27,11 @@
     "createdDate": "07/26/2015 00:09:10",
     "details": [
       {
-        "languageId": 1,
+        "languageId": 2,
         "title": "Summer Badminton Competition 2015"
       },
       {
-        "languageId": 2,
+        "languageId": 1,
         "title": "Gi&#7843;i c&#7847;u l&ocirc;ng tranh c&uacute;p m&ugrave;a h&egrave; 2015"
       }
     ],
@@ -41,6 +41,336 @@
     "profileId": 1,
     "startDate": "07/04/2015 00:00:00",
     "thumbnailImage": "SummerBadmintonCompetition2015thumb.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 2,
+    "createdDate": "07/26/2015 00:10:28",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Awards Summer Badminton 2015"
+      },
+      {
+        "languageId": 1,
+        "title": "Lễ trao giải cầu lông mùa hè 2015"
+      }
+    ],
+    "endDate": null,
+    "id": 3,
+    "image": "AwardsSummerBadminton20151.jpg@AwardsSummerBadminton20152.jpg@AwardsSummerBadminton20153.jpg@AwardsSummerBadminton20154.jpg@AwardsSummerBadminton20155.jpg",
+    "profileId": 1,
+    "startDate": "07/20/2015 00:00:00",
+    "thumbnailImage": "AwardsSummerBadminton2015thumb.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 2,
+    "createdDate": "07/28/2015 23:48:13",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Year-end party 2014"
+      },
+      {
+        "languageId": 1,
+        "title": "Year-end party 2014"
+      }
+    ],
+    "endDate": null,
+    "id": 4,
+    "image": "YearEndParty20141.jpg@YearEndParty20142.jpg@YearEndParty20143.jpg@YearEndParty20144.jpg@YearEndParty20145.jpg@YearEndParty20146.jpg@YearEndParty20147.jpg@YearEndParty20148.jpg@YearEndParty20149.jpg",
+    "profileId": 1,
+    "startDate": "02/06/2015 00:00:00",
+    "thumbnailImage": "20150206YearEndParty2014Thumb.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 2,
+    "createdDate": "07/29/2015 21:48:26",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Working with Conexus"
+      },
+      {
+        "languageId": 1,
+        "title": "Làm việc với Conexus"
+      }
+    ],
+    "endDate": null,
+    "id": 5,
+    "image": "1.jpg@2.jpg@3.jpg@4.jpg@5.jpg@6.jpg@7.jpg@8.jpg@9.jpg",
+    "profileId": 1,
+    "startDate": "11/21/2012 00:00:00",
+    "thumbnailImage": "Thumb.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 2,
+    "createdDate": "07/29/2015 21:54:58",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Playing with Conexus"
+      },
+      {
+        "languageId": 1,
+        "title": "Vui chơi với Conexus"
+      }
+    ],
+    "endDate": null,
+    "id": 6,
+    "image": "10.jpg@11.jpg@12.jpg@13.jpg",
+    "profileId": 1,
+    "startDate": "11/22/2012 00:00:00",
+    "thumbnailImage": "thumb635738036637795640.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 1,
+    "createdDate": "06/15/2017 09:06:25",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Leader Training at Nha Trang 2016"
+      },
+      {
+        "languageId": 1,
+        "title": "Leader Training at Nha Trang 2016"
+      }
+    ],
+    "endDate": null,
+    "id": 7,
+    "image": "20161210LeaderTrainingAtNhaTrang3.jpg@20161210LeaderTrainingAtNhaTrang4.jpg@20161210LeaderTrainingAtNhaTrang5.jpg@20161210LeaderTrainingAtNhaTrang6.jpg@20161210LeaderTrainingAtNhaTrang1.jpg",
+    "profileId": 1,
+    "startDate": "12/10/2016 00:00:00",
+    "thumbnailImage": "20161210LeaderTrainingAtNhaTrang.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 2,
+    "createdDate": "06/15/2017 14:26:44",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Winter Badminton Competition 2016"
+      },
+      {
+        "languageId": 1,
+        "title": "Winter Badminton Competition 2016"
+      }
+    ],
+    "endDate": null,
+    "id": 8,
+    "image": "20161101OrientBadminton20163.jpg@20161101OrientBadminton20164.jpg@20161101OrientBadminton20162.jpg",
+    "profileId": 1,
+    "startDate": "11/01/2016 00:00:00",
+    "thumbnailImage": "20161101OrientBadminton2016.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 2,
+    "createdDate": "06/15/2017 14:29:08",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Book Room Celebration"
+      },
+      {
+        "languageId": 1,
+        "title": "Book Room Celebration"
+      }
+    ],
+    "endDate": null,
+    "id": 9,
+    "image": "20161027Bookroom1.jpg",
+    "profileId": 1,
+    "startDate": "10/27/2016 00:00:00",
+    "thumbnailImage": "20161027Bookroom.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 2,
+    "createdDate": "06/15/2017 14:30:21",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Awards Q2 2016"
+      },
+      {
+        "languageId": 1,
+        "title": "Awards Q2 2016"
+      }
+    ],
+    "endDate": null,
+    "id": 10,
+    "image": "20160915Q2Awards20161.jpg",
+    "profileId": 1,
+    "startDate": "09/15/2016 00:00:00",
+    "thumbnailImage": "20160915Q2Awards2016.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 1,
+    "createdDate": "06/16/2017 15:13:48",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Team Building at Cambodia"
+      },
+      {
+        "languageId": 1,
+        "title": "Team Building at Cambodia"
+      }
+    ],
+    "endDate": null,
+    "id": 11,
+    "image": "20160518CambodiaTeambuilding1.jpg@20160518CambodiaTeambuilding2.jpg@20160518CambodiaTeambuilding3.jpg@20160518CambodiaTeambuilding4.jpg@20160518CambodiaTeambuilding5.jpg@20160518CambodiaTeambuilding6.jpg",
+    "profileId": 1,
+    "startDate": "05/18/2016 00:00:00",
+    "thumbnailImage": "20160518CambodiaTeambuilding.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 2,
+    "createdDate": "06/22/2017 18:42:16",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Workshop at Duxton hotel 2015"
+      },
+      {
+        "languageId": 1,
+        "title": "Workshop at Duxton hotel 2015"
+      }
+    ],
+    "endDate": null,
+    "id": 12,
+    "image": "20151215WorkshopatDuxtonhotel1.jpg@20151215WorkshopatDuxtonhotel2.jpg@20151215WorkshopatDuxtonhotel3.jpg",
+    "profileId": 1,
+    "startDate": "12/15/2015 00:00:00",
+    "thumbnailImage": "20151215WorkshopatDuxtonhotel.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 3,
+    "createdDate": "08/07/2018 09:24:06",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "My family"
+      },
+      {
+        "languageId": 1,
+        "title": "My family"
+      }
+    ],
+    "endDate": null,
+    "id": 13,
+    "image": "family.jpg",
+    "profileId": 1,
+    "startDate": "08/07/2018 00:00:00",
+    "thumbnailImage": "familythumb.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 4,
+    "createdDate": "08/07/2018 13:43:57",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Kick-off Vip24 project"
+      },
+      {
+        "languageId": 1,
+        "title": "Khởi động dự án Vip24"
+      }
+    ],
+    "endDate": null,
+    "id": 14,
+    "image": "TechTalk1.jpg@TechTalk2.jpg@TechTalk3.jpg@TechTalk4.jpg",
+    "profileId": 1,
+    "startDate": "07/01/2013 00:00:00",
+    "thumbnailImage": "TechTalk1thumb.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 5,
+    "createdDate": "08/07/2018 13:52:31",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "My favorite subjects"
+      },
+      {
+        "languageId": 1,
+        "title": "Những môn ưa thích của tôi"
+      }
+    ],
+    "endDate": null,
+    "id": 15,
+    "image": "badminton636692467355039823.jpg@singsong636692467491347619.jpg@LySonIsland1.jpg@LySonIsland2.jpg@LySon1.jpg@LySon2.jpg",
+    "profileId": 1,
+    "startDate": "08/01/2016 00:00:00",
+    "thumbnailImage": "badmintonthumb636692467300726716.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 6,
+    "createdDate": "08/07/2018 14:05:31",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Guest posts"
+      },
+      {
+        "languageId": 1,
+        "title": "Guest posts"
+      }
+    ],
+    "endDate": null,
+    "id": 16,
+    "image": "GuestPost1.jpg",
+    "profileId": 1,
+    "startDate": "01/01/2018 00:00:00",
+    "thumbnailImage": "GuestPost1thumb.jpg",
+    "url": ""
+  },
+  {
+    "active": true,
+    "categoryId": 2,
+    "createdDate": "08/24/2018 20:35:24",
+    "details": [
+      {
+        "languageId": 2,
+        "title": "Opening Ceremony at Conexus Vietnam"
+      },
+      {
+        "languageId": 1,
+        "title": "Lễ khai trương tại Conexus Vietnam"
+      }
+    ],
+    "endDate": null,
+    "id": 17,
+    "image": "ConexusVNOpeningCeremony1636707397046899352.jpg@ConexusVNOpeningCeremony2.jpg@ConexusVNOpeningCeremony3.jpg@ConexusVNOpeningCeremony4.jpg@ConexusVNOpeningCeremony5.jpg",
+    "profileId": 1,
+    "startDate": "01/03/2018 00:00:00",
+    "thumbnailImage": "ConexusVNOpeningCeremony636707396948003695.jpg",
     "url": ""
   }
 ]
