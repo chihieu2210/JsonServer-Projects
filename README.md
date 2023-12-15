@@ -9,8 +9,8 @@ Install [Node Version Manager (NVM) tool](https://github.com/coreybutler/nvm-win
 Install `Node` and `NPM` with `NVM` tool
 
 ```
-nvm install 16.14.0
-nvm use 16.14.0
+nvm install 18.17.1
+nvm use 18.17.1
 ```
 ```
 npm install
@@ -39,6 +39,7 @@ Install `REST Client` extension for VSCode and using `test.http` file for testin
 - [http://localhost:3001/api/portfolio/menu](http://localhost:3001/api/portfolio/menu)
 - [http://localhost:3001/api/angular-sandbox/events](http://localhost:3001/api/angular-sandbox/events)
 - [http://localhost:3001/api/angular-sandbox/recipes](http://localhost:3001/api/angular-sandbox/recipes)
+- [http://localhost:3001/api/nextjs-blankproject/product](http://localhost:3001/api/nextjs-blankproject/product)
 
 
 ## Convert SQL to JSON
