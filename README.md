@@ -30,7 +30,12 @@ Open [http://localhost:3001/api](http://localhost:3001/api) with your browser to
 ## API Testing With REST Client
 Install `REST Client` extension for VSCode and using `test.http` file for testing.
 
+## Deploying JSON-Server to Cyclic.sh
+Create an account at [cyclic.sh](http://cyclic.sh/) (link account to your GitHub profile). Then upload the mock server to GitHub.
 
+To deploy on cyclic, click the green deploy button on the dashboard.
+
+https://long-gold-cricket-yoke.cyclic.app/api/nextjs-blankproject/product
 
 ## Pages in the project
 
