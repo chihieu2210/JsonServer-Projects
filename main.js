@@ -104,6 +104,12 @@ router.render = async (req, res) => {
       }
       break;
 
+    case '/api/nextjs-blankproject/product':
+      {
+        res.status(200).jsonp(await getObjectData('nextjs-blankproject', 'product'));
+      }
+      break;
+
     default:
       res.jsonp(res.locals.data);
       break;
