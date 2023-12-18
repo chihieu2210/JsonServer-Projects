@@ -35,7 +35,7 @@
     "id": 2,
     "image": null,
     "profileId": 1,
-    "url": "/Journal"
+    "url": "/journal"
   },
   {
     "active": true,
@@ -54,7 +54,7 @@
     "id": 3,
     "image": null,
     "profileId": 1,
-    "url": "/Topic"
+    "url": "/topic"
   },
   {
     "active": true,
@@ -73,7 +73,7 @@
     "id": 4,
     "image": null,
     "profileId": 1,
-    "url": "/Skills"
+    "url": "/skills"
   },
   {
     "active": true,
@@ -92,7 +92,7 @@
     "id": 5,
     "image": null,
     "profileId": 2,
-    "url": "/About"
+    "url": "/about"
   },
   {
     "active": true,
@@ -111,7 +111,7 @@
     "id": 6,
     "image": null,
     "profileId": 2,
-    "url": "/Services"
+    "url": "/services"
   },
   {
     "active": true,
@@ -130,7 +130,7 @@
     "id": 7,
     "image": null,
     "profileId": 2,
-    "url": "/Topic"
+    "url": "/topic"
   },
   {
     "active": false,
@@ -149,6 +149,6 @@
     "id": 8,
     "image": null,
     "profileId": 2,
-    "url": "/Skills"
+    "url": "/skills"
   }
 ]
