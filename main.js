@@ -76,6 +76,12 @@ router.render = async (req, res) => {
       }
       break;
 
+    case '/api/portfolio/news':
+      {
+        res.status(200).jsonp(await getObjectData('portfolio', 'news'));
+      }
+      break;
+
     case '/api/angular-sandbox/events':
       {
         const objectName = 'events';
